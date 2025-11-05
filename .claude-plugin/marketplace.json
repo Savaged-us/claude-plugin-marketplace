@@ -11,52 +11,28 @@
       "name": "savage-worlds-validator",
       "description": "Validates Savage Worlds character data against SWADE rules, checks derived stats, and verifies edge/hindrance compatibility",
       "version": "1.0.0",
-      "author": "Savaged-us",
-      "category": "rpg-tools",
-      "keywords": ["savage-worlds", "swade", "validation", "rpg", "character-creation"],
-      "source": "./plugins/savage-worlds-validator",
-      "commands": {
-        "validate-character": "commands/validate-character.md",
-        "check-derived-stats": "commands/check-derived-stats.md",
-        "verify-edges": "commands/verify-edges.md"
+      "author": {
+        "name": "Savaged-us"
       },
-      "agents": {
-        "swade-validator": "agents/swade-validator.md"
-      }
+      "source": "./plugins/savage-worlds-validator"
     },
     {
       "name": "rpg-pdf-extractor",
       "description": "Extracts stat blocks, edges, hindrances, powers, and bestiary data from Savage Worlds PDFs into structured JSON format",
       "version": "1.0.0",
-      "author": "Savaged-us",
-      "category": "rpg-tools",
-      "keywords": ["savage-worlds", "pdf", "extraction", "stat-blocks", "data-mining", "bestiary"],
-      "source": "./plugins/rpg-pdf-extractor",
-      "commands": {
-        "extract-stat-block": "commands/extract-stat-block.md",
-        "extract-edges": "commands/extract-edges.md",
-        "extract-powers": "commands/extract-powers.md"
+      "author": {
+        "name": "Savaged-us"
       },
-      "agents": {
-        "pdf-data-miner": "agents/pdf-data-miner.md"
-      }
+      "source": "./plugins/rpg-pdf-extractor"
     },
     {
       "name": "dice-notation-parser",
       "description": "Parses and validates Savage Worlds dice notation, including exploding dice, modifiers, and damage calculations",
       "version": "1.0.0",
-      "author": "Savaged-us",
-      "category": "rpg-tools",
-      "keywords": ["savage-worlds", "dice", "parser", "notation", "damage", "exploding-dice"],
-      "source": "./plugins/dice-notation-parser",
-      "commands": {
-        "parse-dice": "commands/parse-dice.md",
-        "calculate-damage": "commands/calculate-damage.md",
-        "compare-dice": "commands/compare-dice.md"
+      "author": {
+        "name": "Savaged-us"
       },
-      "agents": {
-        "dice-analyst": "agents/dice-analyst.md"
-      }
+      "source": "./plugins/dice-notation-parser"
     }
   ]
 }
