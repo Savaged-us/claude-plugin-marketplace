@@ -1,0 +1,9 @@
+{
+  "name": "dice-notation-parser",
+  "version": "1.0.0",
+  "description": "Parses and validates Savage Worlds dice notation, including exploding dice, modifiers, and damage calculations",
+  "author": "Savaged-us",
+  "category": "rpg-tools",
+  "keywords": ["savage-worlds", "dice", "parser", "notation", "damage", "exploding-dice"],
+  "homepage": "https://github.com/Savaged-us/claude-plugin-marketplace"
+}

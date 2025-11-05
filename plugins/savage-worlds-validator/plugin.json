@@ -1,0 +1,9 @@
+{
+  "name": "savage-worlds-validator",
+  "version": "1.0.0",
+  "description": "Validates Savage Worlds character data against SWADE rules, checks derived stats, and verifies edge/hindrance compatibility",
+  "author": "Savaged-us",
+  "category": "rpg-tools",
+  "keywords": ["savage-worlds", "swade", "validation", "rpg", "character-creation"],
+  "homepage": "https://github.com/Savaged-us/claude-plugin-marketplace"
+}

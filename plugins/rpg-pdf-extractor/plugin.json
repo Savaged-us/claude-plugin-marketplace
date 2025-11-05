@@ -1,0 +1,9 @@
+{
+  "name": "rpg-pdf-extractor",
+  "version": "1.0.0",
+  "description": "Extracts stat blocks, edges, hindrances, powers, and bestiary data from Savage Worlds PDFs into structured JSON format",
+  "author": "Savaged-us",
+  "category": "rpg-tools",
+  "keywords": ["savage-worlds", "pdf", "extraction", "stat-blocks", "data-mining", "bestiary"],
+  "homepage": "https://github.com/Savaged-us/claude-plugin-marketplace"
+}
