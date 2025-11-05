@@ -1,0 +1,10 @@
+{
+  "name": "savaged-marketplace",
+  "description": "Official Claude plugin marketplace for Savaged-us organization",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Savaged-us",
+    "url": "https://github.com/Savaged-us"
+  },
+  "plugins": []
+}
